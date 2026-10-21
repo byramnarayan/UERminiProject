@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f1340e2f5209c74aba7ca6067db57c8, type: 3}
+  m_Name: 03_stainless_steel_water_bottle
+  m_EditorClassIdentifier: Assembly-CSharp::SustainableFuture.Data.SustainabilityItem
+  itemTitle: Stainless Steel Bottle
+  category: 0
+  itemSprite: {fileID: 21300000, guid: 3207fe03a4f934845913300979fe700a, type: 3}
+  emojiIcon: 
+  educationalFact: Durable lifetime alternative to thousands of single-use plastic water bottles.
+  actionFeedback: GOAL! Refillable steel bottles keep single-use plastic out of landfills.
+  badgeColor: {r: 0.12, g: 0.65, b: 0.32, a: 1}
